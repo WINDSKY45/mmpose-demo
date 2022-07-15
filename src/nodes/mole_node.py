@@ -53,8 +53,8 @@ class MoleNode(BaseVisualizerNode):
     # default_resource_img_path = (
     #     'https://user-images.githubusercontent.com/15977946/'
     #     '170850839-acc59e26-c6b3-48c9-a9ec-87556edb99ed.jpg')
-    mole_img_path = ('/home/hx/mmpose-demo/mmpose-demo/mole.png')
-    hole_img_path = ('/home/hx/mmpose-demo/mmpose-demo/hole.png')
+    mole_img_path = 'https://user-images.githubusercontent.com/27283976/179260280-6e657e1c-5733-4ac8-9a4d-c4a93e76c44a.png'
+    hole_img_path = 'https://user-images.githubusercontent.com/27283976/179260268-cd217390-1382-4d42-8773-32c98979c0c1.png'
 
     def __init__(self,
                  name: str,
